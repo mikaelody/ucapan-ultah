@@ -207,6 +207,7 @@ body {
   font-size: 3em;
   margin: 0;
   text-transform: uppercase;
+  padding-bottom: 20px;
 }
 
 .wish p {
