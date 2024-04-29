@@ -1,1 +1,1 @@
- [Demo](buatbocil.vercel.app) &nbsp;&middot;&nbsp;
+ [Demo](buatbocil.vercel.app) &nbsp;
